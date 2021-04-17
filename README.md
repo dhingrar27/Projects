@@ -43,3 +43,4 @@ https://devpost.com/software/finvine
 4. Created a interactive map of the world, in which each tweet is “plotted” with the given sentiment
 5. Accurately documented all the observation in the map and made it available on a website called mental health dinos. along with resources to deal with mental health issues.
 https://devpost.com/software/mental-health-dino
+https://magentacloudymedian.vhennemann.repl.co
