@@ -44,3 +44,4 @@ https://devpost.com/software/finvine
 5. Accurately documented all the observation in the map and made it available on a website called mental health dinos. along with resources to deal with mental health issues.
 https://devpost.com/software/mental-health-dino
 https://magentacloudymedian.vhennemann.repl.co
+(I recently noticed, that squarespace took off my website because my subscription had expired, please watch the video to see more work!)
