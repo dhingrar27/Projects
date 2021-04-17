@@ -1,4 +1,44 @@
 # Projects
+**Latest Project**
+Registration Project
+1. Users are able to login/register
+2. register as a student, faculty, system administrator, graduate secretary
+3. specific links for all user roles
+4. MAnahed using Python Flask and MySQL
+Login Info:
+
+**_Students_** 
+Billie Holiday
+> Username: billieh
+> Password: king
+
+Diana Krall
+> Username: dianak
+> Password: princess
+
+**_Faculty_**
+Bhagirath Narahari
+
+> Username: Bnarahari
+> Password: prof1
+
+Hyeong-Ah Choi
+> Username: Hchoi
+> Password: prof2
+
+**_GS_**
+Graduate Secretary
+> Username: g_secretary
+> Password: 0000
+
+_**System Administrator**_
+System Administrator
+> Username: s_administrator
+> Password: 0000
+
+Try out the link:(My instance has been stopped but if you want to check it out contact at: rabaab27@gmail.com)
+http://ec2-34-232-40-11.compute-1.amazonaws.com:8080/
+
  **Chat Room**
  1. Written a server and client programs to let users exchange messages. 
  2. Each user runs the ChatClient program and connect to a shared ChatServer. 
