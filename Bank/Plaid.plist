@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>secret</key>
+	<string>51d336be7019e5e99c8544d7035f8a</string>
+	<key>clientID</key>
+	<string>5e51b2749baf5d00135f3bba</string>
+	<key>publicKey</key>
+	<string>8b0e7a661a9de15c7fef7c0558fdf4</string>
+	<key>environment</key>
+	<string>development</string>
+</dict>
+</plist>

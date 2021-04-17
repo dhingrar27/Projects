@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "The best place to store and view your bank accounts."; ObjectID = "1q2-hy-jjc"; */
+"1q2-hy-jjc.text" = "The best place to store and view your bank accounts.";
+
+/* Class = "UILabel"; text = "FinVine"; ObjectID = "3Ej-K2-GLz"; */
+"3Ej-K2-GLz.text" = "FinVine";
+
+/* Class = "UILabel"; text = "INSTITUTION NAME"; ObjectID = "5Gl-gL-Tu5"; */
+"5Gl-gL-Tu5.text" = "INSTITUTION NAME";
+
+/* Class = "UITableViewCell"; accessibilityLabel = "mycell"; ObjectID = "7II-iY-CmU"; */
+"7II-iY-CmU.accessibilityLabel" = "mycell";
+
+/* Class = "UIButton"; normalTitle = "Unlink Bank Account"; ObjectID = "BSa-xL-1nr"; */
+"BSa-xL-1nr.normalTitle" = "Unlink Bank Account";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "EVe-pi-zkr"; */
+"EVe-pi-zkr.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UISegmentedControl"; Hae-2f-zgd.segmentTitles[0] = "Value 1"; ObjectID = "Hae-2f-zgd"; */
+"Hae-2f-zgd.segmentTitles[0]" = "Value 1";
+
+/* Class = "UISegmentedControl"; Hae-2f-zgd.segmentTitles[1] = "Value 2"; ObjectID = "Hae-2f-zgd"; */
+"Hae-2f-zgd.segmentTitles[1]" = "Value 2";
+
+/* Class = "UIButton"; normalTitle = "Link your Bank Account"; ObjectID = "ILs-8B-RsO"; */
+"ILs-8B-RsO.normalTitle" = "Link your Bank Account";
+
+/* Class = "UILabel"; text = "$---.--"; ObjectID = "KUA-aH-omm"; */
+"KUA-aH-omm.text" = "$---.--";
+
+/* Class = "UILabel"; text = "   Understand your Finances better!!"; ObjectID = "P2l-vV-LEI"; */
+"P2l-vV-LEI.text" = "   Understand your Finances better!!";
+
+/* Class = "UILabel"; text = "The Bank app does not store your banking credentials\\, we use a third party service called Plaid. Linking your account just helps you keep a track of your tracsactions without minimising your privacy. For more information, visit Plaid.com"; ObjectID = "P3g-wA-2rv"; */
+"P3g-wA-2rv.text" = "The Bank app does not store your banking credentials\\, we use a third party service called Plaid. Linking your account just helps you keep a track of your tracsactions without minimising your privacy. For more information, visit Plaid.com";
+
+/* Class = "UILabel"; text = "Account Name"; ObjectID = "Plo-Ia-DOK"; */
+"Plo-Ia-DOK.text" = "Account Name";
+
+/* Class = "UILabel"; text = "Transaction Date"; ObjectID = "R9K-aJ-fqu"; */
+"R9K-aJ-fqu.text" = "Transaction Date";
+
+/* Class = "UINavigationItem"; title = "Bank"; ObjectID = "Rpx-La-6nL"; */
+"Rpx-La-6nL.title" = "Bank";
+
+/* Class = "UILabel"; text = "$---.--"; ObjectID = "Yhw-pC-HfV"; */
+"Yhw-pC-HfV.text" = "$---.--";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "aA2-bV-rxL"; */
+"aA2-bV-rxL.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Historic Date"; ObjectID = "mKD-dL-4Qc"; */
+"mKD-dL-4Qc.text" = "Historic Date";
+
+/* Class = "UILabel"; text = "Transaction Name"; ObjectID = "pFM-vC-J8Z"; */
+"pFM-vC-J8Z.text" = "Transaction Name";
+
+/* Class = "UILabel"; text = "No bank accounts found"; ObjectID = "pru-YX-Y3Q"; */
+"pru-YX-Y3Q.text" = "No bank accounts found";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "xY6-6f-UaI"; */
+"xY6-6f-UaI.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
